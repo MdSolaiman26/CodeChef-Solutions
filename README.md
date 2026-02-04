@@ -16,5 +16,5 @@ This repository contains my solutions to CodeChef problems.
 ## Author
 Md. Solaiman  
 CSE-19 Undergraduate  
-Mawlana Bhashani Science and Technology University
+Mawlana Bhashani Science and Technology University,
 Sontosh, Tangail
